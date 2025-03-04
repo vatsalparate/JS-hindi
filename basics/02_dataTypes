@@ -1,0 +1,34 @@
+"use strict"; //treat all JS code as newer version
+
+//alert(3+3);//we are using nodejs,not browser
+
+console.log(3+3)
+console.log("vatsal")//code readability should be high//tc39 and mdn documentation
+
+
+let name ="vp"//string
+let age=19//number
+let isLoggedIn= false
+
+
+//number => 2 to power 53  
+//bigInt
+
+//string double or single quote''
+//=>boolean true/false
+//null=>standalone value
+        //let state=null
+//undefined=>
+    //let state;
+//symbol ==>unique
+
+
+
+
+//object
+
+console.log(typeof"vatsal");
+console.log(typeof null);
+// null is object
+console.log(typeof undefined);
+
